@@ -1,3 +1,8 @@
 import { common, asynchronous } from './common/common.js';
-console.warn(common());
-console.warn(asynchronous());
+
+function print() {
+    console.warn(common());
+    console.warn(asynchronous());
+}
+
+print();

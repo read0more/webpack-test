@@ -8,6 +8,6 @@
 </head>
 <body>
     this is page1
-    <script defer src="/src/js/page1.js" type="module"></script>
+    <script defer src="/dist/js/page1.js"></script>
 </body>
 </html>

@@ -8,5 +8,6 @@
 </head>
 <body>
     this is page2
+    <script defer src="/dist/js/page2.js"></script>
 </body>
 </html>
